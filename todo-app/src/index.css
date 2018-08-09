@@ -3,3 +3,10 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+input {
+  padding:10px;
+	font-family: FontAwesome, "Open Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
